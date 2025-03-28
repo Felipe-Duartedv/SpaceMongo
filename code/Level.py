@@ -41,7 +41,6 @@ class Level:
             pygame.display.flip()
         pass
 
-
     def level_text(self, font_size, text, color, text_pos):
         font = pygame.font.Font(None, font_size)  # Define a fonte (padrão do pygame)
         text_surface = font.render(text, True, color)  # Renderiza o texto
