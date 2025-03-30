@@ -1,3 +1,5 @@
+# Fundo
+
 from code.Entity import Entity
 from code.const import WIN_WIDTH, ENTITY_SPEED
 
